@@ -1,0 +1,12 @@
+C:\Users\pe6o0\source\C#\SharpDevelop\bin\Debug\scsc.exe
+C:\Users\pe6o0\source\C#\SharpDevelop\bin\Debug\scsc.pdb
+C:\Users\pe6o0\source\C#\SharpDevelop\obj\Debug\scsc.csproj.AssemblyReference.cache
+C:\Users\pe6o0\source\C#\SharpDevelop\obj\Debug\scsc.csproj.CoreCompileInputs.cache
+C:\Users\pe6o0\source\C#\SharpDevelop\obj\Debug\scsc.exe
+C:\Users\pe6o0\source\C#\SharpDevelop\obj\Debug\scsc.pdb
+C:\Users\pe6o0\source\repo\MTProject\SharpDevelop\obj\Debug\scsc.csproj.AssemblyReference.cache
+C:\Users\pe6o0\source\repo\MTProject\SharpDevelop\obj\Debug\scsc.csproj.CoreCompileInputs.cache
+C:\Users\pe6o0\source\repo\MTProject\SharpDevelop\obj\Debug\scsc.exe
+C:\Users\pe6o0\source\repo\MTProject\SharpDevelop\obj\Debug\scsc.pdb
+C:\Users\pe6o0\source\repo\MTProject\SharpDevelop\bin\Debug\scsc.exe
+C:\Users\pe6o0\source\repo\MTProject\SharpDevelop\bin\Debug\scsc.pdb

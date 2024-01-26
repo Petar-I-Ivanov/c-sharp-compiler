@@ -1,0 +1,2 @@
+C:\Users\pe6o0\source\C#\scsc.Tests\obj\x86\Debug\scsc.Tests.csproj.AssemblyReference.cache
+C:\Users\pe6o0\source\C#\scsc.Tests\obj\x86\Debug\scsc.Tests.csproj.CoreCompileInputs.cache
