@@ -1,0 +1,16 @@
+using System;
+
+class Program
+{
+	int main()
+	{
+		int test;
+		test = 0;
+
+		int pest;
+		pest = 10;
+
+		test = 58 * pest;
+		printf(test);
+	}
+}

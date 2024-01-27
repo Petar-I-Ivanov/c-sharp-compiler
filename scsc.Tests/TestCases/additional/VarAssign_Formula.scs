@@ -1,11 +1,13 @@
-﻿using System;
+using System;
 
 class Program
 {
 	int main()
 	{
 		int test;
-		test = "Test string";
+		test = 0;
+
+		test = 15 * 5 + 49;
 		printf(test);
 	}
 }
